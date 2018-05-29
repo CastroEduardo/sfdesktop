@@ -14,13 +14,9 @@ using System.Windows.Forms;
 namespace Softfinc
 {
     public partial class Login : Form
-<<<<<<< HEAD
     {
 
              
-=======
-    {    
->>>>>>> a40a00ccced5b32560b3c7bbb998ad4cca0f8465
 
         public Login()
         {
@@ -35,7 +31,7 @@ namespace Softfinc
         private void Login_Load(object sender, EventArgs e)
         {
 
-            Text = "texo cambio  ";
+            Text = "texo cambio  yo tambien  ";
 
 
 
