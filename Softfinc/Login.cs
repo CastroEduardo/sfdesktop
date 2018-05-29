@@ -35,7 +35,7 @@ namespace Softfinc
         private void Login_Load(object sender, EventArgs e)
         {
 
-            Text = "cambio de texto  ";
+            Text = "texo cambio  ";
 
 
 
